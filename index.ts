@@ -45,9 +45,7 @@ async function main() {
                 _all: true,
             },
         });
-        agregate._count._all
         
-        const x = Prisma.validator<Prisma.UserCreateInput>();
 }
 
 // Function definition that returns a partial structure
